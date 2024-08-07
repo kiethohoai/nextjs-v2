@@ -5,3 +5,4 @@
 4. Phân tích structure dự án Nextjs 14 (App Router)
 5. React Server component (RSC) là gì Những thứ cần biết về Nextjs
 6. Routing trong nextjs 14 ( App Router)
+7. Catch all segment in Routing
